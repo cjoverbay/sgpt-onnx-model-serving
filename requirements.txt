@@ -1,0 +1,10 @@
+huggingface_hub==0.5.1
+onnx==1.13.0
+onnxconverter-common==1.13.0
+onnxruntime==1.13.1
+onnxruntime-tools==1.7.0
+sentence-transformers==2.2.0
+transformers[onnx]==4.17.0
+tf2onnx==13.2
+tokenizers==0.13.2
+torch==1.13.1
